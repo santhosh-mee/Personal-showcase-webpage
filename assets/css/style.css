@@ -131,6 +131,7 @@ li { list-style: none; }
 
 img, ion-icon, a, button, time, span { display: block; }
 
+
 button {
   font: inherit;
   background: none;
@@ -1223,10 +1224,6 @@ textarea.form-input::-webkit-resizer { display: none; }
 .form-btn:disabled:hover { background: var(--border-gradient-onyx); }
 
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
-
-
-
-
 
 /*-----------------------------------*\
   #RESPONSIVE
